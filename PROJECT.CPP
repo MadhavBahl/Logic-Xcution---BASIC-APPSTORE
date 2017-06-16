@@ -6,6 +6,7 @@
 /* |  All Rights Reserved                                             					| */
 /* |									| */
 /*========================================================================*/
+
 #include<iostream.h>
 #include<graphics.h>
 #include<process.h>
@@ -270,7 +271,7 @@ void startscreen()
 			gotoxy(25,11);
 			cout<<"THE PASSWORD IS WRONG";
 			gotoxy(25,12);
-			cout<<"REBOOTING THE SYSTEM ";
+			cout<<"REBOOTING THE APPSTORE .... PLEASE WAIT";
 			delay(3000);
 			goto reboot;
 		}
