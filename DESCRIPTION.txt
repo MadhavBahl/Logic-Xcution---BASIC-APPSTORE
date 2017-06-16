@@ -1,0 +1,9 @@
+LX – Miniature Appstore
+By
+Madhav Bahl
+Modules Implemented
+-DATA STRUCTURES
+-Algorithm Design Paradigms
+Platform for the code And compiler-
+C++ PROGRAMMING LANGUAGE
+TURBO C++ 
