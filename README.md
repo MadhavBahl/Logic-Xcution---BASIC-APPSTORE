@@ -1,0 +1,3 @@
+# Logic-Xcution---BASIC-APPSTORE
+ BASIC APPSTORE made on C++ (turbo)
+ALL RIGHTS RESERVED
