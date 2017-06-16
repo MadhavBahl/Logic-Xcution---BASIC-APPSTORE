@@ -240,6 +240,9 @@ void startscreen()
 	}
 	cleardevice();
 	closegraph();/*
+	
+	// THE CODE TO MAKE THIS APPSTORE PASSWORD PROTETED
+	
 	gotoxy(25,10);
 	cout<<"PASSWORD : ";
 	for(i=0;i<10;i++)
@@ -482,8 +485,8 @@ void gameon(void)
 					cout<<"         ";
 				if(n2oa==0&&batc<=60)
 				{
-					batc+=2;
-					n2o--;
+					batc+=3;
+					n2o-=2;
 				}
 				else
 				{
