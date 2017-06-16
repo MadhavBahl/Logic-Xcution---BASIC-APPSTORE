@@ -1,9 +1,9 @@
 /*========================================================================*/
 /* |									| */
-/* |  L.X v1.01 miniature APPSTORE                                      | */
-/* |                                                                    | */
-/* |  Copyright Madhav	 	                                        | */
-/* |  All Rights Reserved                                               | */
+/* |  L.X v1.01 miniature APPSTORE                                      				| */
+/* |  THIS IS A .CPP FILE WHICH SHOULD NOT BE USED WITHOUT MY PERMISSION      | */
+/* |  Copyright Madhav	 	                     			                 | */
+/* |  All Rights Reserved                                             					| */
 /* |									| */
 /*========================================================================*/
 #include<iostream.h>
